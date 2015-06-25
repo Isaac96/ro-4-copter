@@ -1,0 +1,3 @@
+[MultiWiiCopter (click here for website)](http://multiwii.com/) is a collection of open source software and hardware that lets people build quadcopters with the Arduino Pro Mini and sensors from the Wiimote. Ro4Copter is very compatible with MultiWiiCopter's various designs and software, and can mimic MultiWiiCopter hardware such that it works with the MultiWiiCopter Configurator (a GUI utility which is used to configure and tune AeroQuad quadcopters).
+
+This page is here just because the word MultiWiiCopter in this wiki get automatically parsed as a link.

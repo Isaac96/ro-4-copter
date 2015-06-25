@@ -1,0 +1,3 @@
+This design uses a 16 MHz ceramic resonator (as opposed to a crystal). Ceramic resonators are less accurate and the frequency deviation ruined the USB communication timing. Thus, V-USB will not work if a ceramic resonator is used. To get V-USB working, a crystal should be used instead of a ceramic resonator since crystals are generally better for timing accuracy.
+
+For now, ignore everything that is related to native USB, V-USB, and USBaspLoader.

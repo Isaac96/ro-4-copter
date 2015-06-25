@@ -1,0 +1,3 @@
+[AeroQuad (click here for website)](http://aeroquad.com/) is a collection of open source software and hardware that lets people build quadcopters with Arduino. Ro4Copter is heavily derived from AeroQuad's various designs and software, and can mimic AeroQuad hardware such that it works with the AeroQuad Configurator (a GUI utility which is used to configure and tune AeroQuad quadcopters).
+
+This page is here just because the word AeroQuad in this wiki get automatically parsed as a link.
